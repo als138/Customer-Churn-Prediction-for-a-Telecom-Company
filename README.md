@@ -72,5 +72,3 @@ To run the model and perform data analysis:
    ```
 2. Follow the notebook steps to explore the dataset, preprocess data, and train the model.
 3. Evaluation metrics and confusion matrix will be generated and displayed.
-
-این README را با نام `README.md` در ریشه پروژه ذخیره کنید تا GitHub آن را شناسایی کند و به‌طور خودکار نمایش دهد.
